@@ -4,7 +4,10 @@ Here are some python projects i have created.
   🔍 Model is SSD MobileNetV3 (Single Shot Multibox Detector)📦 Pre-trained Model Files are Model Weights: frozen_inference_graph.pb and Model Configuration: ssd_mobilenet_v3_large_coco_2020_01_04.pbtxt
    and 🖥️ Code Components are Main Script: main.py and Detection Module: Detector.py
    
-2) Voice chatbot - Made voice chatbot using speech recognition and pyttsx3 library.The `speech_recognition` library in Python provides tools for capturing and processing speech, enabling the conversion of
+2) QR Code Generator -In this mini-project i utilized stramlit to generate QR Code. Streamlit, an open-source Python library that allows developers to create beautiful, custom web applications for machine learning 
+   and data science projects with minimal effort. With Streamlit, you can turn your data scripts into interactive, shareable web apps in just a few minutes, using only Python code.
+   
+3) Voice chatbot - Made voice chatbot using speech recognition and pyttsx3 library.The `speech_recognition` library in Python provides tools for capturing and processing speech, enabling the conversion of
    spoken language into text using various speech recognition engines. The `pyttsx3` module is a text-to-speech conversion library that allows Python programs to convert text into spoken words using offline
    speech synthesis. Both libraries are commonly used in applications involving voice commands and automated speech responses.
 
